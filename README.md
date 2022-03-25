@@ -51,7 +51,7 @@ Aprender nuevas tecnologías
 Conseguir un empleo 💖
 </li>
 
-https://i.pinimg.com/originals/36/cd/91/36cd9122a883ea280abd5a6ca2369f89.gif
+
 <h2 align='center'>No dudes en contactarme, gracias por ver mi perfil! <img src="https://i.pinimg.com/originals/36/cd/91/36cd9122a883ea280abd5a6ca2369f89.gif" width="80px"></h2>
 
 
