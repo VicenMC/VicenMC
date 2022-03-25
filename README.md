@@ -1,4 +1,5 @@
-<h1 align='center'>Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Mi nombre es Víctor Rodríguez Pontes~</h1>
+<h1 align='center'>Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Mi nombre es Víctor Rodríguez Pontes~ <img src="https://c.tenor.com/cNxPIUbOpcQAAAAi/milk-and-mocha-dance.gif" width="50px"></h1>
+
 
 <h3 align='center'>Desarrollador FULL STACK a punto de graduarse del bootcamp SoyHenry</h3>
 <h3 align='center'>Actualmente resido en el Estado de México</h3>
@@ -20,6 +21,9 @@ Me interesa mucho aprender nuevas cosas y mantenerme ocupado
 <li>
 Mi pasatiempo favorito es ver películas 💖
 </li>
+
+
+Mi Linkedin ༼ つ ◕_◕ ༽つ [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/v%C3%ADctorrp/)
 
 <h1 align='center'>✅ Tecnologías ✅</h1>
 <h1 align='center'>
@@ -46,6 +50,8 @@ Aprender nuevas tecnologías
 </li><li>
 Conseguir un empleo 💖
 </li>
-<h2 align='center'>No dudes en contactarme, gracias por ver mi perfil! </h2>
 
-[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/v%C3%ADctorrp/)
+https://i.pinimg.com/originals/36/cd/91/36cd9122a883ea280abd5a6ca2369f89.gif
+<h2 align='center'>No dudes en contactarme, gracias por ver mi perfil! <img src="https://i.pinimg.com/originals/36/cd/91/36cd9122a883ea280abd5a6ca2369f89.gif" width="80px"></h2>
+
+
