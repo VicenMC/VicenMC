@@ -1,7 +1,7 @@
 <h1 align='center'>Hey! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Mi nombre es Víctor Rodríguez Pontes~ <img src="https://c.tenor.com/cNxPIUbOpcQAAAAi/milk-and-mocha-dance.gif" width="50px"></h1>
 
 
-<h3 align='center'>Desarrollador FULL STACK a punto de graduarse del bootcamp SoyHenry</h3>
+<h3 align='center'>Desarrollador FULL STACK graduado del bootcamp SoyHenry</h3>
 <h3 align='center'>Actualmente resido en el Estado de México</h3>
 
 
